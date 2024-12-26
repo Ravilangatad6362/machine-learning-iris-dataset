@@ -16,7 +16,7 @@
     🔮 Make Predictions: Use the trained model to make predictions on new data.
 
 Optional Features:
-
     🧩 Visualization: Create visualizations to show how well your model performs (e.g., confusion matrix, feature importance).
     📊 Experiment: Try different models and compare their performance.
     🚀 Deployment: If you’re up for it, deploy your model as a simple web app using tools like Flask or Streamlit.
+    
